@@ -31,9 +31,6 @@ ENV/
 *.swp
 *.swo
 
-# Screenshots
-screenshots/
-
 # OS
 .DS_Store
 Thumbs.db
